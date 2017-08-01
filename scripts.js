@@ -7,4 +7,4 @@ var add = document.getElementById('addElem'); //nadaje listener na przycisk
 		document.getElementsByTagName.length('element'); // pokazuje aktualna ilosc listy
 		list.appendChild(element); // dodaje numer do textu 'li'
 		console.log(list.appendChild);
-	}; 
+	}); 
